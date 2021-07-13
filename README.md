@@ -1,5 +1,5 @@
-# Livro de Receitas :cook-chef:
+# Livro de Receitas :man-cook:
 
 Olá! Bem-vinde ao meu livro de receitas
 
-	-  Strogonoff de Frango
+ - Strogonoff de Frango
